@@ -4,6 +4,7 @@
 venv/
 ven/
 env/
+__pycache__/
 
 # frontend, react
 
