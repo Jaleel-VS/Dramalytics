@@ -1,0 +1,11 @@
+# backend, python
+
+.env
+venv/
+ven/
+env/
+
+# frontend, react
+
+node_modules/
+build/
