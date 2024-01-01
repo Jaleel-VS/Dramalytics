@@ -26,4 +26,6 @@ class Episode(BaseModel):
 # Pydantic model that represents your show structure
 class Show(BaseModel):
     show_id: str
+    show_name: str
+    poster_url: str
     episodes: Dict[str, List[Episode]]
